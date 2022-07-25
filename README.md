@@ -11,7 +11,7 @@ It includes the scripts I showed during the talk with their development steps fo
 
 ## Scripts
 
-The scripts shows the automation process of searching the unexported function offline using IDAPython.
+The scripts shows the automation process of searching the unexported function offline using IDAPython. \n
 In order to show all the steps clearly, they are divided into the different steps for each method to locate the unexported functions (total of 3 methods).
 The naming conventions are:
-[method]_[step]_[filename].py
+[method]\_[step]\_[filename].py
